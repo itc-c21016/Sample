@@ -8,5 +8,5 @@ https://github.com/itc-c21016/Sample.git
 [okonomi.txt] (https://github.com/itc-c21016/Sample/blob/master/okonomi.txt)  
 
 ## リモートリポジトリ  
-* [README.md]()を作ってみる  
+* [README.md](https://github.com/itc-c21016/Sample#readme)を作ってみる  
 * マークダウンを覚える  
